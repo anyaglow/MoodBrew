@@ -1,0 +1,5 @@
+{
+  "name": "MoodBrew - AI Drink Recommender",
+  "description": "An AI-powered web application that suggests personalized drinks and uplifting quotes based on your current mood, vibe, or the weather. Discover your next favorite beverage with a touch of inspiration.",
+  "requestFramePermissions": []
+}
